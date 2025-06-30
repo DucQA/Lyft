@@ -1,0 +1,7 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore target folder
+target
+.idea
+.mvn
